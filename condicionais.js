@@ -15,7 +15,7 @@ if (media <= 4.0) {
   conceito = "Ótimo";
 }
 
-console.log("Sua média foi ", media);
+console.log("Sua média foi:", media);
 console.log("O seu conceito foi ", conceito);
 
 switch (conceito) {
@@ -35,3 +35,5 @@ switch (conceito) {
     console.log("Mandou bem!");
     break;
 }
+
+if (fwefwe) {}
